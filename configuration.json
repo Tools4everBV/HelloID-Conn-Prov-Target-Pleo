@@ -1,0 +1,13 @@
+[
+  {
+    "key": "bearer",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Bearer Token",
+      "placeholder": "Please enter some text",
+      "description": "Some optional description",
+      "required": true
+    }
+  }
+]
